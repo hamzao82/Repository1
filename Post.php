@@ -32,7 +32,7 @@ on a comme attributs :
 
 $link1 = 'bd_news1?id=1.php';
 
-echo ' <b> Actualités en continu et info en direct et replay  <br> </b>';
+echo ' <b> Actualités en continu <br> </b>';
 //connection à la base de donnée :
 $mysqli=new mysqli('localhost', 'root','','newsdb');
 
